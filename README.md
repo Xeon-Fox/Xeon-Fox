@@ -1,2 +1,2 @@
 ## Hi 👋
-## Mostly competition projects here
+Mostly competition projects here
